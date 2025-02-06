@@ -15,8 +15,8 @@ AB_OTA_UPDATER := true
 AB_OTA_PARTITIONS += \
     vendor \
     system_ext \
-    system \
-    product
+    product \
+    system
 BOARD_USES_RECOVERY_AS_BOOT := true
 
 # Architecture
